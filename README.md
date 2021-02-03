@@ -20,7 +20,7 @@
   * [RCNN (Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5))](https://arxiv.org/pdf/1311.2524v5.pdf)
     * 발표자 : 이재욱
 
-  * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) [정리본](week2/Fast R-CNN.md)
+  * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) [정리본](/week2/Fast R-CNN.md)
 
     * 발표자 : 이정수
 
