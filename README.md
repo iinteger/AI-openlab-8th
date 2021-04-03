@@ -110,3 +110,24 @@
 
 * 개인 일정으로 불참
 * 수집한 데이터들을 현재 사용하는 yolo data format으로 변환하는 작업 필요
+
+
+
+# 9주차
+
+* 부족했던 마스크 미착용 데이터 보충
+* 현재 Task가 단순하다 판단하여 코스크, 턱스크 등 불완전하게 마스크를 착용하는 경우에 대한 classification 고려
+
+
+
+# 10주차
+
+* 코스크, 턱스크 등 incorrect data를 확보 및 labeling 작업중
+* Yolo v5를 사용하는것으로 결정, 차후 모델 테스트 결과에 따라 tiny yolo 등 경량화 모델 사용 고려
+* data class가 imbalance하기 때문에 이를 적절히 augmentation하거나 split할 방법 고려
+
+
+
+# 11주차
+
+* incorrect data에 대한 학습 결과 수치상 overfitting의 가능성이 있음
