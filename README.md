@@ -1,5 +1,6 @@
 한국인공지능연구소에서 진행하는 AI 오픈랩의 8기 활동을 기록한 레포지토리입니다.
 
+주간기록 : [https://www.ai-lab.kr/opens/600fff86f578eb231e8c3922](https://www.ai-lab.kr/opens/600fff86f578eb231e8c3922)
 
 
 
